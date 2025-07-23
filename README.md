@@ -37,5 +37,9 @@
      alt="Screenshot 4"
      width="90%" 
      style="max-width: 1000px; margin: 20px 0; border-radius: 12px;" />
+ <img width="90%" height="766"  src="https://github.com/user-attachments/assets/3ab89eb4-a97a-4cc1-8d44-946fc3b02d8f"
+   style="max-width: 1000px; margin: 20px 0; border-radius: 12px;"
+   />
+
 
 </div>
