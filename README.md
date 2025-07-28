@@ -40,6 +40,8 @@
  <img width="90%" height="766"  src="https://github.com/user-attachments/assets/3ab89eb4-a97a-4cc1-8d44-946fc3b02d8f"
    style="max-width: 1000px; margin: 20px 0; border-radius: 12px;"
    />
+   <img width="986" height="753" alt="Screenshot 2025-07-28 at 11 16 56 PM" src="https://github.com/user-attachments/assets/a2c9a163-30bf-42bb-a6f5-b5745324e51f" />
+
 
 
 </div>
